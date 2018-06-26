@@ -1,2 +1,12 @@
-theme: jekyll-theme-minimal
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lacy Perkins</title>
+</head>
+<body>
 
+<h1>Hello!</h1>
+<p>Stuff will go here.</p>
+
+</body>
+</html>
